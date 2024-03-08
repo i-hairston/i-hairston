@@ -1,4 +1,4 @@
-<p align="left">Hi I'm Ben!<br>Data Engineer by trade (part time SQL teacher and DBA only on Tuesdays) <br>I'm very much into learning Kafka and distributed data systems at the moment</p>
+<p align="left">Hi I'm Ben!<br>Data Engineer by trade (part time SQL teacher and DBA sometimes)  <br>I'm very much into learning Kafka and distributed data systems at the moment</p>
 
 ###
 
