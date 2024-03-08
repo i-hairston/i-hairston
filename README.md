@@ -1,19 +1,30 @@
-<h1 align="center">Hi 👋, I'm Ben</h1>
-<h3 align="center">data-engineer/part-time god-king</h3>
+<p align="left">Hi I'm Ben!<br>Data Engineer by trade, part time SQL teacher and DBA on Tuesdays<br>I'm very much into learning Kafka and distributed data systems at the moment</p>
 
+###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=b-hairston&show_icons=true&locale=en&layout=compact" alt="b-hairston" /></p> 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=b-hairston&" alt="b-hairston" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=b-hairston&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=b-hairston&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
+###
 
-- 🔭 I’m currently working on [learning Kafka](https://github.com/b-hairston/kafka-pipeline)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+</div>
 
-- 🌱 I’m currently relearning **Java**
+###
 
-- 💬 Don't ask me about **excel files**
+<img src="https://raw.githubusercontent.com/b-hairston/b-hairston/output/snake.svg" alt="Snake animation" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/benjamin-hairston/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/benjamin-hairston/" height="30" width="40" /></a>
-</p>
-
+###
