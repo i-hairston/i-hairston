@@ -25,6 +25,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/b-hairston/b-hairston/output/snake.svg" alt="Snake animation" />
 
-###
