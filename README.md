@@ -4,8 +4,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=b-hairston&hide=html,scss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=midnight-purple&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=b-hairston&theme=midnight-purple&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
-</div>
+<!--   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=b-hairston&theme=midnight-purple&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+</div> -->
 
 
 ###
