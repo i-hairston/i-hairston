@@ -1,4 +1,4 @@
-<p align="left">Hi I'm Ben!<br>Data Engineer by trade</p>
+<p align="left">br>Data Engineer by trade</p>
 
 ###
 
