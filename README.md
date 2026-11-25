@@ -1,4 +1,4 @@
-<p align="center">Data Engineer by trade</p>
+<p align="center">Data Engineer by trade, Homelab enthusiast by nature</p>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
